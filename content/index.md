@@ -1,4 +1,4 @@
 ---
-title: Welcome to Quartz
+title: 🏠
 ---
 황준걸의 블로그.
